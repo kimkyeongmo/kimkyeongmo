@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <h2> labtob   : m1 mac air
-     Desktop  : cpu : i7 7700
-                ram : DDR4 16GB
-                GPU : gigabyte geforce gtx 1660
+<h3> Desktop  : cpu : i7 7700
+<h3> ram : DDR4 16GB
+<h3> GPU : gigabyte geforce gtx 1660
 
 
 <!--
