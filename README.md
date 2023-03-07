@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<h2> labtob : m1 mac air
+
 <!--
 **kimkyeongmo/kimkyeongmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
