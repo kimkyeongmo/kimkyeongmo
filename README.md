@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-<h2> labtob : m1 mac air
+<h2> labtob   : m1 mac air
+     Desktop  : cpu : i7 7700
+                ram : DDR4 16GB
+                GPU : gigabyte geforce gtx 1660
+
 
 <!--
 **kimkyeongmo/kimkyeongmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
