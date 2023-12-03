@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2> labtob   : m1 mac air
+<h2> labtop   : m1 mac air
 <h3> Desktop  : cpu : i7 7700
 <h3> ram : DDR4 16GB
 <h3> GPU : gigabyte geforce gtx 1660
